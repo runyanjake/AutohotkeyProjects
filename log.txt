@@ -1,0 +1,3 @@
+----Log entry Wednesday 19/04 01:06:42.----
+Exited with error status 0. 4 iterations were made.
+
