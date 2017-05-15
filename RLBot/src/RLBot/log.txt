@@ -1,0 +1,67 @@
+ W W----Log entry Wednesday 19/04 21:12:38.----
+Exited with error status 0. 988 iterations were made.
+
+----Log entry Wednesday 19/04 22:27:41.----
+Exited with error status 0. 23 iterations were made.
+
+----Log entry Wednesday 19/04 22:29:30.----
+Exited with error status 0. 4 iterations were made.
+
+----Log entry Wednesday 19/04 22:32:04.----
+Trying to look for ok button...
+Not Found
+Trying to look for ok button...
+Not Found
+Exited with error status 0. 2 iterations were made.
+
+----Log entry Thursday 20/04 15:29:13.----
+----Log entry Thursday 20/04 15:29:17.----
+Exited with error status 0. 2475 iterations were made.
+
+----Log entry Friday 21/04 09:13:10.----
+Exited with error status 0. 1856 iterations were made.
+
+----Log entry Friday 21/04 10:39:04.----
+Exited with error status 0. 298 iterations were made.
+
+----Log entry Friday 21/04 12:52:39.----
+Exited with error status 0. 8284 iterations were made.
+
+----Log entry Sunday 23/04 14:55:37.----
+Exited with error status 0. 3496 iterations were made.
+
+----Log entry Monday 24/04 10:30:32.----
+Exited with error status 0. 2244 iterations were made.
+
+----Log entry Monday 24/04 13:02:51.----
+Exited with error status 0. 8445 iterations were made.
+
+----Log entry Wednesday 26/04 11:58:01.----
+Exited with error status 0. 10050 iterations were made.
+
+----Log entry Thursday 27/04 19:04:27.----
+Exited with error status 0. 2844 iterations were made.
+
+----Log entry Friday 28/04 09:15:08.----
+Exited with error status 0. 2722 iterations were made.
+
+----Log entry Friday 28/04 12:50:00.----
+Exited with error status 0. 4974 iterations were made.
+
+----Log entry Tuesday 02/05 10:28:51.----
+Exited with error status 0. 8971 iterations were made.
+
+----Log entry Tuesday 02/05 23:23:27.----
+----Log entry Wednesday 03/05 14:47:47.----
+Exited with error status 0. 2179 iterations were made.
+
+----Log entry Wednesday 03/05 20:44:56.----
+Exited with error status 0. 910 iterations were made.
+
+----Log entry Thursday 04/05 21:51:27.----
+Trying to look for ok button...
+Trying to look for ok button...
+Exited with error status 0. 1 iterations were made.
+
+----Log entry Friday 05/05 12:23:42.----
+----Log entry Friday 05/05 12:25:29.----
